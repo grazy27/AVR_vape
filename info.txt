@@ -1,0 +1,8 @@
+Vape with regulation from 1 to 100 percents of battery voltage.If power = 100, vape work in  mechanical mode.
+Display auto-off if for n(about 12) seconds any button wasn't pressed.
+Designed for using 2 18650 batteries with discharge current more than 10A.
+Has FIRE timer(about 10 sec, can be chandeg)
+Pressing + and - buttons at the same time call showing voltage function.
+At the first on calibration need to be done. To start it, preess and hold + and - buttons while voltage is showing. Then change constant while showing woltage and real won't be the same. Press FIRE button to calibrate second battery. Press FIRE again to exit calibration mode.
+To shut down vape, press FIRE button five times.
+Led shows that batteries discharged over 3.0V.  
