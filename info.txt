@@ -3,7 +3,7 @@
 — Designed for using 2 18650 batteries with discharge current more than 10A.
 — Has FIRE timer(about 10 sec, can be changed)
 — Pressing + and - buttons at the same time call showing voltage function.
-— At the first on calibration need to be done. To start it, preess and hold + and - buttons while voltage is showing. Then change constant while showing voltage and measured by external voltmether won't be the same. Press FIRE button to calibrate second battery. Press FIRE again to exit calibration mode.
+— At the first on calibration need to be done. To start it, press and hold + and - buttons while voltage is showing. Then change constant while showing voltage and measured by external voltmether won't be the same. Press FIRE button to calibrate second battery. Press FIRE again to exit calibration mode.
 — To shut down vape, press FIRE button five times.
 — Led shows that batteries discharged over 3.0V.
   
